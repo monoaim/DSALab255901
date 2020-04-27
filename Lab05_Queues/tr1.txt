@@ -1,0 +1,4 @@
+buy 100 share(s) at 20 baht each 
+buy 20  share(s) at 24 baht each 
+buy 200 share(s) at 36 baht each 
+sell 150 share(s) at 30 baht each 
